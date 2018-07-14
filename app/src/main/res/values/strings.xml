@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Stationery Store</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_head">Department Head</string>
+    <string name="nav_head_email">Department.head@logicuniversity.com</string>
+    <string name="nav_clerk">Store Clerk</string>
+    <string name="nav_clerk_email">Store.clerk@logicuniversity.com</string>
+    <string name="nav_manager">Store manager</string>
+    <string name="nav_manager_email">Store.manager@logicuniversity.com</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
